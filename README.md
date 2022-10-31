@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chanchal</h1>
 <h3 align="center">A passionate frontend developer with curiosity for creating and building things.</h3>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Next.js** and **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://chanchal.netlify.app/](https://chanchal.netlify.app/)
 
