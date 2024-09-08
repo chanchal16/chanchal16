@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js** and **Typescript**
 
-- 👨‍💻 All of my projects are available at [https://chanchal.netlify.app/](https://chanchal.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://chanchal.dev/](https://chanchal.dev/)
 
 - 📝 I regularly write articles on [https://chanchal16.hashnode.dev/](https://chanchal16.hashnode.dev/)
 
