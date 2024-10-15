@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chanchal</h1>
 <h3 align="center">A passionate frontend developer with curiosity for creating and building things.</h3>
 
-- 🌱 I’m currently learning **Next.js** and **Typescript**
+- 🌱 I’m currently learning **Next.js** and **GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://chanchal.dev/](https://chanchal.dev/)
 
 - 📝 I regularly write articles on [https://chanchal16.hashnode.dev/](https://chanchal16.hashnode.dev/)
 
-- 💬 Ask me about **React, Angular, CSS, TailwindCSS, Material UI**
+- 💬 Ask me about **React, JavaScript, TypeScript, TailwindCSS**
 
 - 📫 How to reach me **chanchalr060@gmail.com**
 
